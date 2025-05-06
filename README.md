@@ -1,3 +1,10 @@
+# This is the answer of materials fall 2024 of data8 ds course
+- Updated by me (Raphael9143), 05-06-2025
+
+#### Warning: Some questions have "trick" answers, that means i didn't answer them in a fair way (due to laziness lol don't blame me) 
+
+
+
 # Data 8 Public Materials for Fall 2024
 
 This repository contains the publicly available materials used in the Data 8 Foundations of Data Science course during the Fall 2024 semester at UC Berkeley.
